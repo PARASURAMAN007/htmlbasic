@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table {
+    height: 70vh;
+    width: 100vh;
+    margin-top: 90px;
+}
+
+th {
+    background-color: rgb(240, 132, 9);
+}
+
+td {
+    background-color: rgb(233, 144, 156);
+}

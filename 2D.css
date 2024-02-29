@@ -1,0 +1,12 @@
+.main {
+    height: 30vh;
+    width: 40vh;
+    background-color: rgb(89, 178, 236);
+    border: 2px solid rgb(60, 60, 247);
+    transform: scaley(2);
+    
+}
+
+.u1 {
+    padding: 15vh;
+}

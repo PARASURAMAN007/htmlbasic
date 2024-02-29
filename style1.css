@@ -1,0 +1,59 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(62, 235, 148);
+    margin: 0;
+    height: 100vh;
+}
+
+.main {
+    background-color: rgb(189, 195, 201);
+    border: none;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    padding: 80px;
+    background-image: url(/folder/pexels-moose-photos-1037992.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.inputdata {
+    
+    margin-bottom: 30px;
+
+}
+.inputdata label{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+
+.inputdata input[type="email"] ,.inputdata input[type="password"], .inputdata input[type="text"]{
+    padding: 5px;
+    width: 100%;
+    border-radius: 20px;
+    border-color: rgb(80, 231, 186);
+}
+
+.subbutton button[type="submit"] {
+    border-radius: 10px;
+    background-color: rgb(79, 166, 206);
+    border-color: rgb(80, 231, 186) ;
+    height: 40px;
+    width: 150px;
+    font-weight: 10px;
+    
+}
+
+
+
+
+
+

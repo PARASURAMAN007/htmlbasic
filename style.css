@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    margin: 0%;
+    height: 100vh;
+  }
+
+.box1 {
+  margin: 20vh;
+  background-color: rgba(255, 123, 0, 0.966);
+  height: 10px;
+  width: 10px;
+  border: 5px solid black;
+  padding: 20vh;
+}
+
+.box2 {
+  background-color: rgba(71, 226, 57, 0.966);
+  height: 10px;
+  width: 10px;
+  border: 5px solid black;
+  padding: 20vh;
+  margin: 20vh;
+}
+
+.box3 {
+  background-color: rgba(228, 95, 228, 0.966);
+  height: 250px;
+  width: 250px;
+  border: 5px solid black;
+   
+}
+
+.txt3 {
+  text-align: center;
+   padding: 80px;
+}
+
+

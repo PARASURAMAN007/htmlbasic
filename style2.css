@@ -1,0 +1,151 @@
+body {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+}
+
+.main {
+    max-height: 200px;
+    width: 150px;
+    border: 1px solid rgb(221, 215, 215) ;
+    background-color: rgb(254, 255, 255);
+    padding: 100px;
+    text-align: center;
+    margin-top: -220px;
+    
+}
+
+.logo img[src="folder/logo.png"] {
+    margin-top: -60px;
+    margin-left: -20px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+.inputdata {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: medium;
+}
+
+.inputdata input[type="text"], .inputdata input[type="password"] {
+    margin-bottom: 3px;
+    margin-top: 3px;
+    margin-left: -60px;
+    border-radius: 3px;
+    padding: 10px;
+    height: 16px;
+    width: 250px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 11px;
+    border: 0.05px solid rgb(190, 190, 186);
+    background-color: #f7f9fd;
+    box-shadow: none;
+}
+
+.subbutton button[type="submit"] {
+    width: 275px;
+    height: 35px;
+    border-radius: 8px;
+    border: 1px solid rgb(97, 183, 233);
+    background-color: rgb(71, 167, 223);
+    color:white;
+    padding: 10px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    margin-left: -62px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+h6.but {
+    margin-top: -3px;
+    font-size: 13px;
+}
+
+.OR {
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-top: -40px;
+}
+ 
+h5.OR1 {
+    color: #6d6868;
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+
+a{
+    color: #f3f2f2;
+    text-decoration: none;
+}
+
+h5.fb1{
+    color: rgb(6, 70, 129);
+    text-decoration: none;
+    margin-top: -19px;
+    margin-left: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fb img[src="folder/pngimg.com - facebook_logos_PNG19750.png"] {
+    height: 15px;
+    margin-left: -155px;
+    margin-top: 10px;
+}
+
+p.fp {
+    color: rgb(58, 76, 94);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.signup {
+    height: 60px;
+    width: 351px;
+    border: 1px solid rgb(221, 215, 215);
+    margin-top: 260px;
+    margin-left: -353px;
+    text-align: center;
+    justify-content: center;
+}
+
+p.dha {
+    margin-left: -90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+p.su {
+    color: rgb(71, 167, 223);
+    margin-left: 110px;
+    margin-top: -30px;
+}
+
+p.app {
+    margin-top: 390px;
+    margin-left: -350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.papp img[src="folder/gplay.png"]{
+    height: 60px;
+    margin-top: 470px;
+    margin-left: -500px;
+}
+
+.mapp img[src="folder/MS.png"] {
+    height: 60px;
+    margin-top: 470px;
+    margin-left: -200px;
+    width: 160px;
+}
